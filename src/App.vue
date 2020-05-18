@@ -5,17 +5,19 @@
       Menu
       Update
     #right
-      Marquee
+      Marquee123
       #content
         Main(v-if="page === 'main'")
+    Footer
 </template>
 
 <script>
 import Top from './components/Top'
 import Menu from './components/Menu'
 import Update from './components/Update'
-import Marquee from './components/Marquee'
+import Marquee123 from './components/Marquee'
 import Main from './components/Main'
+import Footer from './components/Footer'
 
 export default {
   name: 'App',
@@ -23,8 +25,9 @@ export default {
     Top,
     Menu,
     Update,
-    Marquee,
-    Main
+    Marquee123,
+    Main,
+    Footer
   },
   data () {
     return {
