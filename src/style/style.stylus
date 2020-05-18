@@ -1,0 +1,10 @@
+#app
+    width 1024px
+    height 768px
+
+#top
+    width 1024px
+    height 65px
+
+    img width 994px
+    height 60px
