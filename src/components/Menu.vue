@@ -2,7 +2,7 @@
   #menu
     h1 社團介紹
     table
-      tr(v-for="(v-for"(club,index) in clubs" :key="index")
+      tr(v-for="(club,index) in clubs" :key="index")
         td {{club}}
 </template>
 

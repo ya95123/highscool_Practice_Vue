@@ -26,10 +26,10 @@
   font-weight 500
 
   h1
-  font-size 24px
-  text-decoration underline
-  text-align center
-  color #ff00ff
+    font-size 24px
+    text-decoration underline
+    text-align center
+    color #ff00ff
 
   table
     width 200px

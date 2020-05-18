@@ -2,6 +2,7 @@
   #app
     Top
     #left
+      Menu
     #right
 </template>
 
