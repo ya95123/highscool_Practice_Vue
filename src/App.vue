@@ -7,11 +7,13 @@
 
 <script>
 import Top from './components/Top'
+import Menu from './components/Menu'
 
 export default {
   name: 'App',
   components: {
-    Top
+    Top,
+    Menu
   }
 }
 </script>
