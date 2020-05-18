@@ -1,6 +1,8 @@
 <template lang="pug">
   #app
     Top
+    #left
+    #right
 </template>
 
 <script>

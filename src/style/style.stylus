@@ -8,3 +8,13 @@
 
     img width 994px
     height 60px
+
+#left
+    float left
+    width 683px
+    height 215px
+
+#right
+    float right
+    width 683px
+    height 770px
