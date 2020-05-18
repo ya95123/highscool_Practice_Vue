@@ -1,6 +1,6 @@
 <template lang="pug">
   #top
-    img( :src="'./images/logo.png'")
+    img(:src="'./images/logo.png'")
 </template>
 
 <script>
